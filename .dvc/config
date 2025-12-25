@@ -1,0 +1,5 @@
+[core]
+    remote = myremote
+['remote "myremote"']
+    url = s3://emotions-classification/data.txt
+    endpointurl = https://storage.yandexcloud.net
